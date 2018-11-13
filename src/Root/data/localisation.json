@@ -1,0 +1,32 @@
+{
+  "default": "en-Us",
+  "en-Us": {
+    "ROOT": {
+      "HEADER": {
+        "PORTAL_TITLE": "OEM Digital Operations Center",
+        "USER_PROFILE_LINK_TITLE": "User Profile",
+        "LOG_OUT_LINK_TITLE": "Log Out"
+      },
+      "FOOTER": {
+        "FOOTER_LINK_CONTACT_US": "Contact Us",
+        "FOOTER_LINK_TERMS_OF_USE": "Terms of Use",
+        "FOOTER_LINK_PRIVACY_STATEMENT": "Privacy Statement",
+        "FOOTER_LINK_HELP": "Help",
+        "FOOTER_LINK_FAQ": "FAQ",
+        "FOOTER_LINK_MICROSOFT_COPYRIGHT": "2018 Microsoft"
+      },
+      "NAVIGATION": {
+        "NAV_LINK_UPLOAD_FILE": "Upload File",
+        "NAV_LINK_RECONCILIATION_REPORT": "Reconciliation Report",
+        "NAV_LINK_USER_MANAGEMENT": "User Management"
+      },
+      "HOME": {
+        "WelcomeMessage": "From this Home page you can access the specific Microsoft OEM Operations applications you use for your job function . Just select an application from one of the fucntional areas listed in the menu",
+        "WelcomeMessage2": "You can also view current notifications in the News and Information area below. if you need help you can contact us",
+        "WELCOME_PAGE_TITLE": "Welcome to Microsoft OEM Digital Operations Center",
+        "WELCOME_PAGE_MESSAGE": "You can click on pricing navigation items to proceed to new pages.",
+        "WELCOME_CONTACT_US": "Contact Us"
+      }
+    }
+  }
+}
